@@ -135,7 +135,7 @@ class _HomePageState extends State<HomePage> {
                     if (snapData.connectionState == ConnectionState.waiting)
                       return const Center(child: CircularProgressIndicator());
                     if (snapData.hasError)
-                      return Center(q
+                      return Center(
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [

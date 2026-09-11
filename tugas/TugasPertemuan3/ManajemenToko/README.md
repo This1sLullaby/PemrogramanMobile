@@ -40,6 +40,6 @@ Program ini mensimulasikan sistem toko online sederhana menggunakan bahasa pemro
 | Output Program (20%) | Output console terformat rapi, informatif, dan mudah dibaca oleh penilai. |
 
 ## Penulis
-Nama: [Nama Anda]
-NIM: [NIM Anda]
-Kelas: [Kelas Flutter Development Anda]
+Nama: Laili Nurul Fadila
+NIM: 07352411013
+Kelas: 5IF3
