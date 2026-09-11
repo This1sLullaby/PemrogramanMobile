@@ -22,7 +22,5 @@ class Tugas {
   bool get isTelat => DateTime.now().isAfter(deadline) && !selesai;
 
   //ini method
-  void tandaiSelesai() {
-    
-  }
+  void tandaiSelesai() {}
 }
