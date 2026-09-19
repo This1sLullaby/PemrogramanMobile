@@ -1,0 +1,12 @@
+﻿# Flutter/Dart
+**/build/
+**/.dart_tool/
+**/.pub/
+**/.pub-cache/
+*.iml
+.metadata
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
